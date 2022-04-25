@@ -1,1 +1,1 @@
-# Traitement-d-images-par-r-seaux-de-neurones-quantiques
+# Traitement-d-images-par-reseaux-de-neurones-quantiques
